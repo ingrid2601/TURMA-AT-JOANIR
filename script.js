@@ -11,3 +11,6 @@ let linguagens = ["JavaScript", "Python", "C++"]
 console.log (linguagens [0]);
 console.log (linguagens [1]);
 console.log (linguagens [2]);
+
+const lista = document.querySelector ("#lista");
+lista.textContent = linguagens [0];
