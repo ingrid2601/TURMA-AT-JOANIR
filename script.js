@@ -17,3 +17,9 @@ const lista = document.querySelector ("#lista");
 lista.textContent = linguagens [0];
 lista.textContent = linguagens [1];
 lista.textContent = linguagens [2];
+
+
+
+const item = document.querySelector("#lista");
+item.textContent = linguagens [0]+"-" +linguagens [1] + "-"+ linguagens [2]
+
