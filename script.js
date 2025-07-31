@@ -28,3 +28,6 @@ item.textContent = linguagens [0] +"-" + linguagens [1] +"-"+ linguagens [2]
 
 
 
+
+
+
