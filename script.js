@@ -24,6 +24,14 @@ const item = document.querySelector("#lista");
 item.textContent = linguagens [0] +"-" + linguagens [1] +"-"+ linguagens [2]
 
 
+let aluno1 = {
+  nome: "Gabriel",
+  idade: 13,
+  anoLetivo: "2ºsérie",
+  materiasFavoritas: ["Geografia","Programação","Arte"]
+}
+
+
 
 
 
